@@ -2,3 +2,4 @@
 - I'm from Mexico
 - Tacos!
 - Running
+- My favorite color is blue
